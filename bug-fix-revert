@@ -1,0 +1,9 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11683 | grep -E '"html_url"|"state"|"head"|"base"|"full_name"'
+
+"html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/11683",
+"state": "closed",
+"html_url": "https://github.com/Vicky404-git",
+"head": {
+"full_name": "Vicky404-git/mcino-Introduction-to-Git-and-GitHub",
+"base": {
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
